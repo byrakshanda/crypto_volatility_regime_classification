@@ -41,7 +41,8 @@ predicted reasonably well one day ahead using recent price/volume behavior.
 ## How to run it
 Open `crypto_volatility_regime_classification.ipynb` in Jupyter Notebook or 
 Google Colab and run all cells. Place `BTC-2017 per min.csv` in the same folder 
-if not already included in this repo.                                                                                                         ## Dataset
+if not already included in this repo.                                                                                                         
+## Dataset
 This project uses minute-level Bitcoin (BTC-USD) price data for 2017 (~525,000 rows). 
 The raw file is too large to include in this repository. Similar historical Bitcoin 
 data can be found on Kaggle or CryptoDataDownload -  place the CSV file 
